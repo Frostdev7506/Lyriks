@@ -3,7 +3,11 @@
 # Music streaming app using Shazam-core Api
 
 
-## System Requirements
+# Project Lyrics
+
+An elegant React.js Music Application.
+
+
 
 To get started with development, you need to install few tools
 
