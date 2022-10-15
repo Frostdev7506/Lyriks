@@ -6,6 +6,7 @@
 # Project Lyrics
 
 An elegant React.js Music Application.
+Live project - [https://frostdevlyrics.netlify.app](http://localhost:3000)  
 
 
 
